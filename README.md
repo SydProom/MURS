@@ -1,5 +1,5 @@
 # MURS
-Mathematics Undergraduate Research Studentship (MURS) Project Files which relate to the poster I produced.
+Mathematics Undergraduate Research Studentship (MURS) Project Files which relate to the poster "Poster.pdf" which I produced.
 
 Code credits:
 
